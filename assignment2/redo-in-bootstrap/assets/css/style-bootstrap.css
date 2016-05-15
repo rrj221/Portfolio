@@ -1,0 +1,84 @@
+body {
+	background-image: url("../images/concrete_seamless.png");
+}
+
+.panel-default {
+	text-align: center;
+}
+
+.form-horizontal .form-group {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.navbar {
+	background-color: white;
+}
+
+.navbar-brand {
+	background-color: #4aaaa5;
+	color: white;
+}
+
+.navbar-default {
+	color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+
+
+/*Portfolio labels ..............*/
+
+/*.block {
+	display: inline-block;
+	position: relative;
+}
+
+.thumbnail {
+	position: absolute;
+}
+
+.portfolio-img {
+	z-index: 0;
+}
+
+.bg-primary: {
+	position: absolute;
+	bottom: 60px;
+	z-index: 1;
+}
+*/
+
+
+
+/*Sticky Footer ...................*/
+
+
+.footer {
+	text-align: center;
+	margin: auto;
+	height: 75px;
+	background-color: #4aaaa5;
+	color: white;
+}
+
+.footer-text {
+	padding-top: 25px;
+}
+
+
+.container {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -75px;
+}
+
+.footer, .push {
+height: 75px;
+clear: both;
+
+}
