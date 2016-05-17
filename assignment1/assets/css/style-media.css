@@ -21,6 +21,10 @@
 	width: 55%;
 }
 
+.main-content.about {
+	height: 1000px;
+}
+
 .contact-info {
 	width: 30%;
 }
@@ -34,7 +38,7 @@
 	height: 500px;
 }
 
-.main-content {
+.main-content-portfolio {
 	height: 2500px;
 }
 
@@ -160,7 +164,7 @@ header {
 	padding-left: 0px;
 }
 
-.main-content {
+.main-content-portfolio {
 	height: 2500px;
 }
 
