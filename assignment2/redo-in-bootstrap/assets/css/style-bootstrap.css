@@ -2,6 +2,10 @@ body {
 	background-image: url("../images/concrete_seamless.png");
 }
 
+.main-section {
+	background-color: white;
+}
+
 .panel-default {
 	text-align: center;
 }
@@ -30,27 +34,28 @@ body {
 
 
 
+
+
 /*Portfolio labels ..............*/
 
-/*.block {
-	display: inline-block;
+.thumbnail {
 	position: relative;
 }
 
-.thumbnail {
+.text {
 	position: absolute;
+	bottom: 30px;
+	width: 100%;
+	padding: 15px;
+	font-size: 25px;
+	background-color: #4aaaa5;
+	text-align: center;
 }
 
-.portfolio-img {
-	z-index: 0;
-}
+/*.thumbnail {
+	margin-bottom: 0px;
+}*/
 
-.bg-primary: {
-	position: absolute;
-	bottom: 60px;
-	z-index: 1;
-}
-*/
 
 
 
